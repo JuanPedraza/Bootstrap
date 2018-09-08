@@ -1,0 +1,7 @@
+.slider
+{
+    background: url("/Images/ubuntu.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
